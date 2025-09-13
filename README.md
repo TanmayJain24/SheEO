@@ -13,9 +13,11 @@
 - **Responsive & Interactive UI**: Mobile-friendly and intuitive interface with smooth navigation and an engaging user experience.
 
 ## **Tech Stack**:
+- **Frontend**: React.js (Vite)
 - **Backend**: Node.js, Express.js
-- **Frontend**: HTML, CSS, JavaScript, React.js, EJS
 - **Database**: MongoDB
+- **Media Storage**: Cloudinary
+- **Machine Learning**: Python (Algorithm for personalized feed)
 - **Styling**: Bootstrap, CSS
 - **Version Control**: Git, GitHub
 
