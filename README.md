@@ -5,6 +5,7 @@
 ## **Key Features**:
 - **User Authentication**: Secure registration and login system for entrepreneurs and investors, ensuring safe access with role-based permissions.
 - **Profile Management**: Entrepreneurs and investors can manage profiles, showcase business ideas, and view matched connections.
+- **Personalized Feed**: Users get a customized feed based on their domains and post content for better engagement.
 - **Matchmaking Algorithm**: Smart matching system that pairs women entrepreneurs with suitable investors based on preferences and business domains.
 - **Pitch & Communication Tools**: Entrepreneurs can upload video pitches, send messages, and schedule meetings with investors.
 - **AI Assistant – Disha**: Integrated AI assistant offering guidance, answering queries, and suggesting relevant resources for users.
